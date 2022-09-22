@@ -160,7 +160,6 @@ aside > h3{
     border-radius: 10px 10px 0px 0px;
 }
 aside > ul{    
-    list-style-type: circle;
     list-style-position: inside;
     columns: 2;
 }
