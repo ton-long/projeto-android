@@ -159,8 +159,8 @@ aside > h3{
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;
 }
-aside > ul{
-    list-style-type: '\2714\00a0\00a0'; /*Não é compativel com todos navegadores*/
+aside > ul{    
+    list-style-type: circle;
     list-style-position: inside;
     columns: 2;
 }
