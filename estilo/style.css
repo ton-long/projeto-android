@@ -159,7 +159,8 @@ aside > h3{
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;
 }
-aside > ul{    
+aside > ul{  
+    font-size: 0.9em;  
     list-style-position: inside;
     columns: 2;
 }
